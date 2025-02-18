@@ -1,2 +1,2 @@
-# exerc-cios-html
+# exercicios-html
 Exercícios de HTML
